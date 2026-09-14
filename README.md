@@ -210,7 +210,7 @@ Power BI Desktop (optional, for dashboard view)
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/Aftahiislam007/customer-trends-data-analysis.git
+git clone https://github.com/MaishaFairooz91405/customer-trends-data-analysis.git
 cd customer-trends-data-analysis
 ```
 
